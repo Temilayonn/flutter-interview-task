@@ -22,3 +22,6 @@ Up to 8 hours. We do not expect you to complete the assessment in this time.
 7.  In the PR, include a README that includes the following:
     -  If you made any assumptions, what are they
     - Outline what else needs to be done if given more time
+
+
+if given more time, the forgot password, profile feature could be added on the application to enhance user experience.
