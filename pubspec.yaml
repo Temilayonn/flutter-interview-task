@@ -64,11 +64,11 @@ flutter_icons:
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter.
-flutter:
-  fonts:
-    - family: TT Norms Pro
-      fonts:
-        - asset: fonts/TT Norms Pro Regular.otf
+# flutter:
+#   fonts:
+#     - family: TT Norms Pro
+#       fonts:
+#         - asset: fonts/TT Norms Pro Regular.otf
 
   assets:
     - assets/
