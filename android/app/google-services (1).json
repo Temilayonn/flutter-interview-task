@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423898804052",
+    "project_id": "woo-dog",
+    "storage_bucket": "woo-dog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423898804052:android:29b056ee5e012fb690e2c1",
+        "android_client_info": {
+          "package_name": "com.example.laundro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423898804052-q13r5301i3rgua48dpol9k4pguj7nnok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmcKIH4vegDfGxwKI56_OwL9l4jH3kJUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423898804052-q13r5301i3rgua48dpol9k4pguj7nnok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
